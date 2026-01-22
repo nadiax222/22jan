@@ -1,1 +1,2 @@
-#New repo, new **README** but in bold ;) today I'm learning how to make different README styles
+# New repo, new **README** but in bold ;) 
+### today I'm learning how to make different README styles
